@@ -1,0 +1,6 @@
+id,title,year,disease,sv_types,design,strict_no_ld,ld_notes,cnv_only_excluded,sample_size,replication,effect_size,model,covariates,pvalue_strategy,fisher_used,quality_score,verification_status,source_url,notes
+TBD001,,,,,,pending,,yes,,,,,,,,0,candidate,,
+TBD002,,,,,,pending,,yes,,,,,,,,0,candidate,,
+TBD003,,,,,,pending,,yes,,,,,,,,0,candidate,,
+TBD004,,,,,,pending,,yes,,,,,,,,0,candidate,,
+TBD005,,,,,,pending,,yes,,,,,,,,0,candidate,,

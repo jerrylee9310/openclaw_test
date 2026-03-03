@@ -12,6 +12,11 @@
   - `analysis_matrix.csv` : 방법론 매트릭스(연구설계별 비교)
 - `notes/`
   - `limitations.md` : 현재 수집 한계 및 검증 TODO
+  - `questions_for_next_search_round.md` : 다음 검색 라운드 전 확정 질문
+- `reports/`
+  - `04_targeted_protocol_t2d_mi_sv_no_ld.md` : T2D/MI 한정 strict no-LD 조사 프로토콜
+- `data/`
+  - `screening_template_t2d_mi_sv_no_ld.csv` : 1차 스크리닝 입력 템플릿
 
 ## 정리 기준(핵심)
 
