@@ -1,0 +1,6 @@
+method_family,uses_ld_structure,typical_unit,strength,weakness,when_to_use
+single_sv_regression,no,SV locus,interpretability,low power for rare SV,common SV with large N
+rare_sv_burden,no,gene/region/pathway,higher power for rare effects,sensitive to grouping rules,rare disease and severe phenotypes
+trio_de_novo_test,no,family transmission,robust to population stratification,requires trio data,ASD/DD/early-onset disorders
+sv_plus_functional_annotation,minimal,functional bins,biological interpretability,annotation bias,mechanism-focused studies
+graph_based_sv_genotyping,minimal,SV genotype matrix,better complex SV representation,pipeline complexity,biobank-scale preprocessing

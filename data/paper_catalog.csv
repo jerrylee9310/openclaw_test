@@ -1,0 +1,11 @@
+id,title,year,area,design,ld_dependence,core_test,main_takeaway,verification_status
+SV001,Comprehensive analysis of structural variation in 17,795 human genomes,2020,population genomics,large-scale SV discovery + direct genotyping,none-direct,population frequency and functional annotation,SV 직접 관측 기반 레퍼런스를 제시해 LD 프록시 없이 분석 기반 제공,needs_manual_check
+SV002,An integrated map of structural variation in 2,504 human genomes,2015,population genomics,consortium SV map,none-direct,direct SV cataloging,초기 대규모 SV 지도 구축으로 직접 SV 분석 기반 형성,needs_manual_check
+SV003,Pangenome-based genome inference allows efficient and accurate genotyping across a wide spectrum of variant classes,2023,method/pangenome,pangenome graph-based genotyping,minimal,direct genotyping from graph reference,LD보다 직접 구조변이 표현을 강화해 연관분석 전처리에 유리,needs_manual_check
+SV004,Contribution of rare inherited and de novo structural variants in autism spectrum disorder,2019,neurodevelopment,trio + burden,none-direct,transmission/de novo enrichment,가족기반 설계로 LD 의존 없이 위험 기여도 평가,needs_manual_check
+SV005,Rare copy number variation in schizophrenia in the UK Biobank,2024,psychiatric genetics,case-control burden,none-direct,rare CNV burden test,희귀 CNV 집계 검정으로 LD 블록 가정보다 직접적인 효과 평가,needs_manual_check
+SV006,Whole-genome sequencing identifies common and rare structural variants contributing to hematologic traits,2021,complex trait,WGS + association,mixed,single-SV + conditional analyses,형질 연관 SV를 직접 검정하되 일부 조건부 분석 포함,needs_manual_check
+SV007,Population-scale long-read sequencing uncovers previously hidden structural variation,2022,sequencing/technology,long-read discovery,none-direct,direct SV detection,long-read 기반 직접 SV 검출로 LD 대체가 아닌 독립 신호 확보,needs_manual_check
+SV008,Rare structural variant burden in developmental disorders from genome sequencing trios,2020,rare disease,trio burden,none-direct,gene/region burden + de novo test,희귀질환에서 family-based 설계의 강점(층화 완화) 확인,needs_manual_check
+SV009,Clinical impact of structural variation in rare disease genomes,2021,clinical genomics,diagnostic cohort,none-direct,pathogenic enrichment by SV class,LD 비의존 직접 판독으로 임상 해석 가능성 제시,needs_manual_check
+SV010,SV-aware association framework for biobank-scale sequencing data,2023,methods,biobank association pipeline,minimal,score/burden hybrid tests,대규모 코호트에서 SV 직접 검정을 위한 실무형 파이프라인 제시,needs_manual_check
